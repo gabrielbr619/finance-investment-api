@@ -1,6 +1,6 @@
 # 📊 Finance Investment API
 
-![Finance Investment API Logo](https://example.com/finance-investment-api-logo.png)
+<!-- ![Finance Investment API Logo](https://example.com/finance-investment-api-logo.png) -->
 
 Finance Investment API é uma ferramenta poderosa para análise de ações e gestão de investimentos. Desenvolvida com tecnologias modernas, esta API fornece dados em tempo real sobre ações, análises de mercado e funcionalidades avançadas de gerenciamento de portfólio para investidores informados.
 
